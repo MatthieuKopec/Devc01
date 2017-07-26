@@ -1,4 +1,3 @@
-
 void my_putchar(char c);
 
 void print_line(char a, char b, char c, char d)
@@ -25,7 +24,8 @@ void print_line(char a, char b, char c, char d)
 }
 
 void first(char a, char b, char c, char d){
-  while (a!=57 || b!=56)   {
+  while (a!=57 || b!=56)
+{
       if (d==57)
 	{
 	if (c==57 && d==57 && b==57)
